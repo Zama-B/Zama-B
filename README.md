@@ -1,97 +1,212 @@
-# Hey there! 👋 I'm Zama-B
+# 👋 Hey, I'm Zama Bhengane
 
-> Passionate developer building innovative solutions for real-world problems
+### AI Developer • Creative Technologist • Fashion-Tech Creative
 
----
-
-## 🎯 About Me
-
-Welcome to my GitHub profile! I'm a dedicated developer focused on creating impactful applications that solve meaningful challenges. I specialize in building AI-powered solutions and full-stack web applications.
-
-- 💼 **Location:** [Your Location]
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-- 💬 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 🌐 **Portfolio:** [Your Portfolio Website](https://yourportfolio.com)
-- 🐦 **Twitter:** [@YourHandle](https://twitter.com/yourhandle)
+> Blending technology, creativity, and innovation into intelligent digital experiences.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 About Me
 
-### 1. **[AgriSense.AI](https://github.com/Zama-B/AgriSense-AI)**
-An AI-powered web application tackling South Africa's water scarcity crisis. Supporting urban and rural farmers across major regions through smart, water-focused farming solutions.
-- 🎯 **Focus:** AI, Agriculture, Sustainability
-- 🛠️ **Stack:** [Technologies Used]
-- 📊 **Impact:** Helping farmers optimize water usage in water-scarce regions
+I'm a future-driven aspiring AI Developer and Creative Technologist from Durban, South Africa, passionate about building impactful digital products that merge artificial intelligence, creativity, and real-world problem solving.
 
-### 2. **[Khalipha](https://github.com/Zama-B/Khalipha)**
-An intelligent career assistant web application powered by AI. Provides structured career guidance covering career exploration, study planning, job opportunities, career transitions, and interview preparation.
-- 🎯 **Focus:** Career Development, AI Chatbot, Web Application
-- 🛠️ **Stack:** [Technologies Used]
-- 💡 **Features:** Interactive AI chat, personalized career guidance, free course recommendations
+My journey started in fashion design and creative direction, eventually evolving into technology, AI, and digital product development. Today, I’m continuously building foundational skills in front-end development, AI tools, and full-stack technologies while creating projects focused on innovation, automation, sustainability, and user experience.
 
----
+I enjoy exploring the intersection between:
 
-## 🛠️ Technical Skills
-
-### Languages
-- [Language 1]
-- [Language 2]
-- [Language 3]
-
-### Frameworks & Tools
-- [Framework/Tool 1]
-- [Framework/Tool 2]
-- [Framework/Tool 3]
-
-### Specializations
-- AI & Machine Learning
-- Full-Stack Web Development
-- Sustainable Technology Solutions
+* 🤖 Artificial Intelligence
+* 🎨 Creative Technology
+* 👕 Fashion & Design
+* 🌍 Real-world problem solving
+* 💡 Future-focused digital experiences
 
 ---
 
-## 📜 Certifications & Credentials
+## 🌐 Connect With Me
 
-### Professional Certificates
-- [Certificate Name] - [Issuing Organization] - [Date]
-- [Certificate Name] - [Issuing Organization] - [Date]
-- [Certificate Name] - [Issuing Organization] - [Date]
-
-### Courses Completed
-- [Course Name] - [Platform] - [Date]
-- [Course Name] - [Platform] - [Date]
+📍 Durban, South Africa
+📧 Email: [bhenganezama@gmail.com](mailto:bhenganezama@gmail.com)
+💼 LinkedIn: linkedin.com/in/zama-bhengane-287180409
+💻 GitHub: github.com/Zama-B
 
 ---
 
-## 📈 GitHub Statistics
+# 🚀 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zama-B&show_icons=true&theme=radical)
+## 🤖 Khalipha
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zama-B&layout=compact&theme=radical)
+### AI Assistant & Automation Platform
+
+Khalipha is an AI-powered assistant designed to think, respond, and assist like a smart digital companion. The platform combines conversational AI, automation, and intelligent interactions through voice and text experiences.
+
+### 🔹 Focus Areas
+
+* Conversational AI
+* Automation
+* Smart Assistance
+* Voice & Text Interaction
+
+### 🛠 Technologies
+
+* React
+* Firebase
+* AI APIs
+* JavaScript
 
 ---
 
-## 🤝 Let's Connect!
+## 🌱 AgriSense.AI
 
-I'm always interested in collaborating on projects that make a positive impact. Whether you have questions, ideas for collaboration, or just want to connect:
+### AI-Powered Agritech Platform
 
-- **Open to:** Collaboration, project partnerships, freelance opportunities
-- **Interested in:** AI applications, sustainable technology, innovation challenges
-- **Reach out:** [your.email@example.com](mailto:your.email@example.com)
+AgriSense.AI is an intelligent agritech platform focused on helping small-scale farmers monitor crops, improve sustainability, and make informed farming decisions using AI-powered insights.
+
+### 🔹 Focus Areas
+
+* AI & Agriculture
+* Sustainability
+* Smart Farming
+* Water-conscious Solutions
+
+### 🛠 Technologies
+
+* React
+* Firebase
+* AI APIs
+* Responsive Design
 
 ---
 
-## 📝 Latest Activity
+## 🌐 Pulse Social
 
-Check out my repositories to see what I'm currently working on!
+### Creative-First Social Platform
+
+Pulse Social is a modern social platform designed to connect creators, innovators, and makers through visual collaboration and interactive digital experiences.
+
+### 🔹 Focus Areas
+
+* Social Technology
+* Creator Economy
+* Digital Communities
+* Interactive Experiences
+
+### 🛠 Technologies
+
+* React
+* Firebase
+* Tailwind CSS
 
 ---
 
-<div align="center">
+# 🛠 Technical Foundations
 
-### Made with ❤️ by Zama-B
+## 💻 Development
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Zama-B.Zama-B)
+* HTML
+* CSS
+* JavaScript Fundamentals
+* React Fundamentals
+* Firebase
+* Git & GitHub
+* Responsive Design
+* Full-Stack Fundamentals
+* AI Prompt Engineering
 
-</div>
+## 🎨 Creative Skills
+
+* Creative Direction
+* Branding
+* Fashion Design
+* UX Thinking
+* Visual Creativity
+* Digital Product Ideation
+
+## 🤝 Professional Skills
+
+* Communication
+* Problem Solving
+* Team Collaboration
+* Adaptability
+* Customer Service
+* Digital Sales & Client Interaction
+
+---
+
+# 📜 Certifications & Learning
+
+## 🎓 Certifications
+
+* AI Boot Camp — Capaciti
+* Full Stack Development — FNB App Academy
+* Generative AI with Large Language Models — Coursera
+* Python for Data Science, AI & Development — Coursera
+* AI For Everyone — Coursera
+* Introduction to Artificial Intelligence — Coursera
+* Prompt Engineering Basics — Coursera
+* Introduction to Generative AI — Coursera
+* Supervised Machine Learning: Regression & Classification — Coursera
+* Unsupervised Learning, Recommenders & Reinforcement Learning — Coursera
+
+---
+
+# 💼 Experience
+
+## IT Service Desk Learnership — Capaciti
+
+**2026 — Present**
+
+Providing technical support, troubleshooting assistance, and building practical experience in IT systems and workplace technology.
+
+---
+
+## Independent Fashion Designer — Self-employed
+
+**2022 — 2025**
+
+Managed customer consultations, garment design, production, and creative direction while developing entrepreneurial and client management skills.
+
+---
+
+## Clothing Brand Operations & Retail
+
+**2025**
+
+Supported customer interaction, sales operations, production coordination, and workflow management.
+
+---
+
+## Automotive Parts Sales & Listings — Family Business
+
+**2025 — 2026**
+
+Managed customer communication, Facebook Marketplace listings, and digital sales support.
+
+---
+
+# 🎯 Career Goals
+
+I’m currently focused on growing into opportunities within:
+
+* Artificial Intelligence
+* Creative Technology
+* Front-End Development
+* AI Product Development
+* Digital Innovation
+
+My long-term goal is to build intelligent digital platforms that combine technology, creativity, and meaningful human experiences.
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zama-B\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zama-B\&layout=compact\&theme=tokyonight)
+
+---
+
+# ✨ Creative Philosophy
+
+> “Technology and fashion intertwine — combining creativity, innovation, and intelligent digital experiences to design solutions for the future.”
+
+---
