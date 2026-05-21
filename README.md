@@ -137,7 +137,7 @@ Pulse Social is a modern social platform designed to connect creators, innovator
 ## 🎓 Certifications
 
 * AI Boot Camp — Capaciti
-* Full Stack Development — FNB App Academy
+* Full Stack Development — FNB App Academy 
 * Generative AI with Large Language Models — Coursera
 * Python for Data Science, AI & Development — Coursera
 * AI For Everyone — Coursera
