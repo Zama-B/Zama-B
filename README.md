@@ -83,26 +83,7 @@ AgriSense.AI is an intelligent agritech platform focused on helping small-scale 
 
 ---
 
-## 🌐 Pulse Social
 
-### Creative-First Social Platform
-
-Pulse Social is a modern social platform designed to connect creators, innovators, and makers through visual collaboration and interactive digital experiences.
-
-### 🔹 Focus Areas
-
-* Social Technology
-* Creator Economy
-* Digital Communities
-* Interactive Experiences
-
-### 🛠 Technologies
-
-* React
-* Firebase
-* Tailwind CSS
-
----
 
 # 🛠 Technical Foundations
 
